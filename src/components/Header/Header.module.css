@@ -1,0 +1,45 @@
+.header-container {
+  margin: 0;
+  padding: 0.7rem 1rem;
+}
+
+h1 {
+  margin: 0;
+}
+
+.header-difficulty {
+  width: 20%;
+  display: flex;
+}
+
+.difficulty-style {
+  fill: none;
+  width: 33%;
+}
+.easy {
+  fill: black;
+  width: 33%;
+}
+
+.medium {
+  fill: black;
+  width: 33%;
+}
+
+.hard {
+  fill: black;
+  width: 33%;
+}
+
+.header-category {
+  padding-top: 0.5rem;
+  font-size: 1.2rem;
+}
+.header-progress__bar {
+  width: 100%;
+  height: 15px;
+  background-color: #f47c7c;
+  border-radius: 10px;
+  margin-bottom: 1.3rem;
+  margin-top: 1rem;
+}
